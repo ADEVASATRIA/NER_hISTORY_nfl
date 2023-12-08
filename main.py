@@ -1,3 +1,5 @@
+# Code BY ADEVA SATRIA ARIF WIBAWA
+
 import spacy
 from spacy import displacy
 
