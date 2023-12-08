@@ -1,6 +1,7 @@
 # NER IMPLEMENTATION USING DATA NFL HISTORY 
-# CREADIT WIKIPEDIA 
-
+<i>
+CREADIT WIKIPEDIA 
+</i>
 # Instalation
 - Import Library
 ```
