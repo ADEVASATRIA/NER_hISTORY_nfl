@@ -2,7 +2,9 @@
 <i>
 CREADIT WIKIPEDIA 
 </i>
-# Instalation
+
+
+# INSTALATION
 - Import Library
 ```
 pip install spacy
